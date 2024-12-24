@@ -256,3 +256,4 @@ D:\Work\GitHub\Ecommerce\EcommerceMVC\EcommerceMVC\bin\Debug\net8.0\runtimes\win
 D:\Work\GitHub\Ecommerce\EcommerceMVC\EcommerceMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\Work\GitHub\Ecommerce\EcommerceMVC\EcommerceMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\Work\GitHub\Ecommerce\EcommerceMVC\EcommerceMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Work\GitHub\Ecommerce\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\EcommerceMVC.sourcelink.json
